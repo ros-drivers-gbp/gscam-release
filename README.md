@@ -1,3 +1,26 @@
+## gscam (lunar) - 0.2.0-0
+
+The packages in the `gscam` repository were released into the `lunar` distro by running `/home/k-okada/catkin_ws/ws_rosdep/bloom/devel/bin/bloom-release --track lunar --rosdistro lunar gscam` on `Tue, 13 Jun 2017 05:21:53 -0000`
+
+The `gscam` package was released.
+
+Version of package(s) in repository `gscam`:
+
+- upstream repository: git://github.com/ros-drivers/gscam.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.2.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.26`
+- catkin_pkg version: `0.3.1`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.6.2`
+- vcstools version: `0.1.39`
+
+
 ## gscam (kinetic) - 0.2.0-0
 
 The packages in the `gscam` repository were released into the `kinetic` distro by running `/home/k-okada/catkin_ws/ws_rosdep/bloom/devel/bin/bloom-release --track kinetic --rosdistro kinetic gscam` on `Tue, 13 Jun 2017 05:15:20 -0000`
