@@ -1,3 +1,26 @@
+## gscam (melodic) - 1.0.1-0
+
+The packages in the `gscam` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -y gscam --rosdistro melodic --track melodic` on `Thu, 06 Sep 2018 06:40:20 -0000`
+
+The `gscam` package was released.
+
+Version of package(s) in repository `gscam`:
+
+- upstream repository: git://github.com/ros-drivers/gscam.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.0.1-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.6`
+- catkin_pkg version: `0.4.8`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.9`
+- vcstools version: `0.1.40`
+
+
 ## gscam (lunar) - 1.0.0-0
 
 The packages in the `gscam` repository were released into the `lunar` distro by running `/home/k-okada/catkin_ws/ws_rosdep/bloom/devel/bin/bloom-release gscam --rosdistro lunar --track lunar` on `Tue, 13 Jun 2017 14:31:37 -0000`
