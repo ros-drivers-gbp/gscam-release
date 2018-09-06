@@ -1,0 +1,12 @@
+Source: ros-melodic-gscam
+Section: misc
+Priority: extra
+Maintainer: Jonathan Bohren <jbo@jhu.edu>
+Build-Depends: debhelper (>= 9.0.0), libgstreamer-plugins-base1.0-dev, libgstreamer1.0-dev, ros-melodic-camera-calibration-parsers, ros-melodic-camera-info-manager, ros-melodic-catkin, ros-melodic-cv-bridge, ros-melodic-image-transport, ros-melodic-nodelet, ros-melodic-roscpp, ros-melodic-sensor-msgs
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-melodic-gscam
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-camera-calibration-parsers, ros-melodic-camera-info-manager, ros-melodic-cv-bridge, ros-melodic-image-transport, ros-melodic-nodelet, ros-melodic-roscpp, ros-melodic-sensor-msgs
+Description: A ROS camera driver that uses gstreamer to connect to devices such as webcams.
